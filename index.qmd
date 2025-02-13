@@ -1,11 +1,17 @@
 ---
-title: "avery-eastman.github.io"
+title: "Avery Eastman"
+image: IMG_2396.jpeg
+toc: false
+about:
+  template: jolla
+  image-shape: rectangle
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/avery-eastman
+    - text: GitHub
+      href: https://github.com/avery-eastman
+    - text: Email
+      href: mailto:avery.eastman@icloud.com
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hey! I'm Avery, I am a third-year undergraduate at Colorado State University, majoring in Ecosystem Science and Sustainability. I am keen to apply my knowledge of earth systems and sustainability science to real world applications. I hope to gain fieldwork and research experience to further my knowledge, skills and to build a professional network. Some of my interests include rock climbing, camping, and baking!

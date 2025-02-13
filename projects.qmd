@@ -1,0 +1,17 @@
+---
+title: "Projects"
+---
+
+In spring of 2025 I took a Quantitative Reasoning class based in R.
+
+My first project for this class was called Personal Portfolio. I was tasked with making a web page using R, RStudio, and Quarto.
+
+In this project I:
+
+• Learned how to create a basic website
+
+• Render and push code to a github repo
+
+• Got familiar with RMarkdown
+
+Here is the link to my website's homepage!

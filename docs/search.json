@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "avery-eastman.github.io",
+    "title": "Avery Eastman",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hey! I’m Avery, I am a third-year undergraduate at Colorado State University, majoring in Ecosystem Science and Sustainability. I am keen to apply my knowledge of earth systems and sustainability science to real world applications. I hope to gain fieldwork and research experience to further my knowledge, skills and to build a professional network. Some of my interests include rock climbing, camping, and baking!"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "Resume",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Avery Eastman \nFort Collins, CO | 503-839-0802 | avery.eastman@icloud.com | https://www.linkedin.com/in/avery-eastman   \nSUMMARY: \nI am a third-year undergraduate, emerging in environmental management and conservation science. I am keen to apply my knowledge of earth systems and sustainability science to real world applications. I hope to gain fieldwork and research experience to further my knowledge, skills and to build a professional network. My core competencies include: \n\nExperience with ArcGIS tools and Excel \n\n\n\nOrganized and diligent worker, with the ability to analyze and interpret data  \n\nEDUCATION: \nEcosystem Science and Sustainability May 2026 \nColorado State University, Fort Collins, Colorado GPA 3.60 \nOUTDOOR AND SALES EXPERIENCE: \nClimbing Wall Assistant, Colorado State University: Campus Recreation May 2024–Present \nFort Collins, CO \n\nFostered an encouraging and inclusive environment for all patrons \n\n\n\nLed belay lessons and taught climbing classes \n\n\n\nCollaborated with other staff to set routes and bouldering problems  \n\nSales Associate: Women’s Apparel, Nordstrom Summer 2023 \nPortland, OR  \n\nUtilized outstanding interpersonal skills and product knowledge to address customers’ concerns and questions  \n\n\n\nProcessed payments, returns, and exchanges \n\n\n\nOrganized and advertised apparel to increase sales \n\nRock Climbing Summer Camp Instructor/Gym Staff, Multnomah Athletic Club Summer 2022 \nPortland, OR  \n\nCreated and led fun and engaging activities for kids ages 4-12 years old \n\n\n\nAnalyzed and evaluated potential risk factors to assure the safety of all individuals in the gym  \n\n\n\nOriented individuals to the gym, including check-in procedures and informing them of the gym rules  \n\nHead Lifeguard, Oswego Lake Country Club Summer 2021 \nLake Oswego, OR \n\nManaged a team of 14 lifeguards and trained 9 new lifeguards due to extensive experience and knowledge about the job \n\n\n\nHandled communication, such as comments, concerns, and questions, with member   \n\n\n\nEnsured the safety of all patrons by enforcing safety protocols and assessing and responding to incidents \n\n\n\nReceived a raise after less than a year in the position \n\nCOMMUNITY ENGAGEMENT:  \nCenter for Public Deliberation, CSU Spring 2024 \nFort Collins, CO \n\nFacilitate group discussions for 6-10 people to help guide participants through tough issues containing strong tensions \n\n\n\nEngaged with various stakeholders to achieve collaborative problem solving"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "In spring of 2025 I took a Quantitative Reasoning class based in R.\nMy first project for this class was called Personal Portfolio. I was tasked with making a web page using R, RStudio, and Quarto.\nIn this project I:\n• Learned how to create a basic website\n• Render and push code to a github repo\n• Got familiar with RMarkdown\nHere is the link to my website’s homepage!"
   }
 ]
