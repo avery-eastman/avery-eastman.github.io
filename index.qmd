@@ -1,6 +1,6 @@
 ---
 title: "Avery Eastman"
-image: IMG_2396.jpeg
+image: imgs/IMG_2396.jpeg
 toc: false
 about:
   template: jolla

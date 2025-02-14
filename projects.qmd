@@ -14,4 +14,4 @@ In this project I:
 
 • Got familiar with RMarkdown
 
-Here is the link to my website's homepage!
+Here is the link to my website's homepage! [Click here to view homepage](index.html)

@@ -8,14 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - projects.qmd
       - Resume.qmd
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      - sandstone
+      - styles.scss
     toc: true
     page-layout: full
 

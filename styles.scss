@@ -1,0 +1,16 @@
+/*-- scss:defaults --*/
+// Colors
+$light-green: #D1D9CE;
+$green: #528F42;
+$blue-green: #428F7F;
+$gray: #64605f;
+$purple: #8F4278;
+$cream: #FDFBF7;
+
+// Base document colors
+$navbar-bg: $cream; // navbar
+$navbar-fg: $blue-green; // navbar foreground elements
+$navbar-hl: $purple; // highlight color when hovering over navbar links
+$body-bg: $light-green; // page background
+$body-color: $gray; // page text
+$link-color: $green; // hyperlinks
