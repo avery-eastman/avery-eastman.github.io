@@ -2,16 +2,78 @@
 title: "Projects"
 ---
 
-In spring of 2025 I took a Quantitative Reasoning class based in R.
+In spring of 2025 I took a Quantitative Reasoning class based in R. Here are my projects from the class:
+
+## Project 1: Personal Portfolio
+
+![](images/Screenshot%202025-05-10%20at%209.37.47%20PM.png)
 
 My first project for this class was called Personal Portfolio. I was tasked with making a web page using R, RStudio, and Quarto.
 
 In this project I:
 
-• Learned how to create a basic website
+-   Learned how to create a basic website
 
-• Render and push code to a github repo
+-   Render and push code to a github repo
 
-• Got familiar with RMarkdown
+-   Got familiar with RMarkdown
 
 Here is the link to my website's homepage! [Click here to view homepage](index.html)
+
+## Project 2: Minnesota tree growth
+
+![](images/PIBA_pinus_banksiana.png)
+
+This project was all about manipulating and summarizing data with dplyr using a long term tree growth observation record from Minnesota.
+
+Here is the link to the project. [Click here](https://avery-eastman.github.io/Lab_2_tree_growth_data/)
+
+## Project 3: Data Wrangling and Visualization — COVID-19
+
+![](images/death_toll.png)
+
+In this project I gained experience using COVID-19 data to practice data wrangling and visualization skills. In addition, I became more familiar with using flextable.
+
+Here is the link to the project. [Click here](https://avery-eastman.github.io/csu-ess-lab3/)
+
+## Project 4: **Statistics in R**
+
+![](images/carapace_width.png)
+
+This project helped me gain familiarity with calculating statistics in R. In this project I used several statistical tests such as chi-square, t-tests, and correlation tests. The data used for this project is from the Long-Term Ecological Research (LTER) Network, which is a collaborative effort involving more than 2000 scientists and students investigating ecological processes over long temporal and broad spatial scales.
+
+Here is the link to the project. [Click here](https://avery-eastman.github.io/csu-ess-lab4/)
+
+## Project 5:
+
+## Project 6: **Machine Learning in Hydrology**
+
+![](images/low_perc_and_gvf.png)
+
+For this project I used Tidymodels & CAMELS datasets to gain experience with modeling and building a workflow.
+
+Here is the link to the project. [Click here](https://avery-eastman.github.io/csu-ess-lab6/)
+
+## Project 7: Personal Project Kickoff
+
+![](images/Screenshot%202025-05-11%20at%208.27.59%20PM.png)
+
+This project served as a draft of the introduction, data, and methods sections for the scientific paper of my final research project for the class.
+
+Here is the link to the project. [Click here](https://avery-eastman.github.io/csu-ess-lab7/)
+
+## Project 8: **Machine Learning — The Whole Game Plan**
+
+![](images/final_plot.png)
+
+In this project I applied my knowledge of the Machine Learning process to create a complete machine learning pipeline for a regression problem. To to this I build off of my work in project 6.
+
+Here is the link to the project. [Click here](https://avery-eastman.github.io/lab-8-csu/)
+
+## Project 9: Personal **Project Updates**
+
+![](images/log_visualization.png)
+
+This project included the draft of the results and discussion for the scientific paper of my final research project. Additionally, I expand on the methods section of the paper.
+
+Here is the link to the project. [Click here](https://avery-eastman.github.io/css-ess-lab9/)
