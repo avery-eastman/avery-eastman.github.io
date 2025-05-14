@@ -6,7 +6,7 @@ In spring of 2025 I took a Quantitative Reasoning class based in R. Here are my 
 
 ## Project 1: Personal Portfolio
 
-![](images/Screenshot%202025-05-10%20at%209.37.47%20PM.png)
+![](images/webpage.png)
 
 My first project for this class was called Personal Portfolio. I was tasked with making a web page using R, RStudio, and Quarto.
 
@@ -22,7 +22,7 @@ Here is the link to my website's homepage! [Click here to view homepage](index.h
 
 ## Project 2: Minnesota tree growth
 
-![](images/PIBA_pinus_banksiana.png)
+![](images/tree.png)
 
 This project was all about manipulating and summarizing data with dplyr using a long term tree growth observation record from Minnesota.
 
@@ -44,7 +44,13 @@ This project helped me gain familiarity with calculating statistics in R. In thi
 
 Here is the link to the project. [Click here](https://avery-eastman.github.io/csu-ess-lab4/)
 
-## Project 5:
+## Project 5: Project Proposal
+
+![](images/project.png)
+
+This project helped me draft potential research topic for my final research project for the class. I also gained experience with quarto manuscripts in this project.
+
+Here is the link to the project. [Click here](https://avery-eastman.github.io/Final-Project-Proposals/)
 
 ## Project 6: **Machine Learning in Hydrology**
 
@@ -56,7 +62,7 @@ Here is the link to the project. [Click here](https://avery-eastman.github.io/cs
 
 ## Project 7: Personal Project Kickoff
 
-![](images/Screenshot%202025-05-11%20at%208.27.59%20PM.png)
+![](images/project.png)
 
 This project served as a draft of the introduction, data, and methods sections for the scientific paper of my final research project for the class.
 
@@ -77,3 +83,19 @@ Here is the link to the project. [Click here](https://avery-eastman.github.io/la
 This project included the draft of the results and discussion for the scientific paper of my final research project. Additionally, I expand on the methods section of the paper.
 
 Here is the link to the project. [Click here](https://avery-eastman.github.io/css-ess-lab9/)
+
+## Project 10: **Distances and Projections**
+
+![](images/cities_close.png)
+
+In this project I was able to build on my data wrangling and data visualization skills. The main goals for this project were to explore the properties of `sf`, `sfc`, and `sfg` features & objects; how they are stored; and issues related to distance calculation and coordinate transformation.
+
+Here is the link to the project. [Click here](https://avery-eastman.github.io/lab-10-csu/)
+
+## Project 11: Formal Report
+
+![](images/final_model_fit.png)
+
+This is my final formal report. It is written like a scientific paper with a clear title and the following sections: abstract, introduction/hypothesis, methods, results, discussion/conclusion. The results section also includes my full code.
+
+Here is the link to the report. [Click here](https://avery-eastman.github.io/Final-Project-manuscript/)

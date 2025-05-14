@@ -49,11 +49,11 @@
     "text": "Project 4: Statistics in R\n\nThis project helped me gain familiarity with calculating statistics in R. In this project I used several statistical tests such as chi-square, t-tests, and correlation tests. The data used for this project is from the Long-Term Ecological Research (LTER) Network, which is a collaborative effort involving more than 2000 scientists and students investigating ecological processes over long temporal and broad spatial scales.\nHere is the link to the project. Click here"
   },
   {
-    "objectID": "projects.html#project-5",
-    "href": "projects.html#project-5",
+    "objectID": "projects.html#project-5-project-proposal",
+    "href": "projects.html#project-5-project-proposal",
     "title": "Projects",
-    "section": "Project 5:",
-    "text": "Project 5:"
+    "section": "Project 5: Project Proposal",
+    "text": "Project 5: Project Proposal\n\nThis project helped me draft potential research topic for my final research project for the class. I also gained experience with quarto manuscripts in this project.\nHere is the link to the project. Click here"
   },
   {
     "objectID": "projects.html#project-6-machine-learning-in-hydrology",
@@ -82,5 +82,19 @@
     "title": "Projects",
     "section": "Project 9: Personal Project Updates",
     "text": "Project 9: Personal Project Updates\n\nThis project included the draft of the results and discussion for the scientific paper of my final research project. Additionally, I expand on the methods section of the paper.\nHere is the link to the project. Click here"
+  },
+  {
+    "objectID": "projects.html#project-10-distances-and-projections",
+    "href": "projects.html#project-10-distances-and-projections",
+    "title": "Projects",
+    "section": "Project 10: Distances and Projections",
+    "text": "Project 10: Distances and Projections\n\nIn this project I was able to build on my data wrangling and data visualization skills. The main goals for this project were to explore the properties of sf, sfc, and sfg features & objects; how they are stored; and issues related to distance calculation and coordinate transformation.\nHere is the link to the project. Click here"
+  },
+  {
+    "objectID": "projects.html#project-11-formal-report",
+    "href": "projects.html#project-11-formal-report",
+    "title": "Projects",
+    "section": "Project 11: Formal Report",
+    "text": "Project 11: Formal Report\n\nThis is my final formal report. It is written like a scientific paper with a clear title and the following sections: abstract, introduction/hypothesis, methods, results, discussion/conclusion. The results section also includes my full code.\nHere is the link to the report. Click here"
   }
 ]
